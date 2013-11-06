@@ -1,6 +1,6 @@
 # Groupme::Ruby
 
-TODO: Write a gem description
+This gem currently does nothing and is useless. I am terrible at ruby.
 
 ## Installation
 
